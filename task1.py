@@ -1,3 +1,14 @@
+'''
+PROGRAM PSEUDO CODE
+-------------------
+1. Create a class
+2. Initialize a python constructor 
+3. Accept Assessment grades
+4. Compute the weighted scores
+5. Get Associated Grades
+6. Check for fails
+7. Return grade
+'''
 class InterimGradeLetter:
     def __init__(self, assignment1, assignment2, assignment3):
         self.assignment1 = assignment1
